@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:  Disallow Admin Bar
-Plugin URI:   https://thinknathan.ca/
+Plugin URI:   https://github.com/thinknathan/
 Description:  Disallow admin bar.
 Version:      1.0.0
 Author:       Think_Nathan
