@@ -9,4 +9,4 @@ Author URI:   https://thinknathan.ca/
 License:      MIT License
 */
 
-add_action('show_admin_bar', '__return_false');
+add_action( 'show_admin_bar', '__return_false' );
